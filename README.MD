@@ -1,6 +1,6 @@
 Based on https://github.com/Xinyuan-LilyGO/LilyGo-HiGrow
 
-**TO BE DONE**: Add deep sleep.
+**TO BE DONE**: Add deep sleep (check https://github.com/JackGruber/ESP32-LMIC-DeepSleep-example/).
 
 ----
 
