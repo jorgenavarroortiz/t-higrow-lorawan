@@ -1,6 +1,10 @@
-<h1 align = "center">LilyGO T-HiGrow-LoRa-Shield TTN & Cayenne💦 </h1>
+Based on https://github.com/Xinyuan-LilyGO/LilyGo-HiGrow
 
- 
+**TO BE DONE**: Add deep sleep.
+
+----
+
+<h1 align = "center">LilyGO T-HiGrow-LoRa-Shield TTN & Cayenne💦 </h1>
 
 This example shows how to use **[LilyGO T-HiGrow  + T-HiGrow Lora Sheld ](https://www.aliexpress.com/item/32815782900.html)** to connect to **[TTN](https://www.thethingsnetwork.org/)** and display the data in **[Cayenne](https://cayenne.mydevices.com/)**,The sample code does not do any power optimization, only data demonstration.
 
